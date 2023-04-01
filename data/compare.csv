@@ -1,0 +1,7 @@
+,MMM,MTA
+Definition,Measures the impact of various marketing channels,Measures the contribution of each touchpoint
+Approach,Uses statistical models to allocate credit to channels,Uses algorithms to attribute credit to touchpoints
+Data sources,Typically relies on historical data,Utilizes real-time data (not necessarily a pre-req)
+Channel focus,	Analyzes large-scale media campaigns,	Focuses on individual touchpoints
+Strengths,	Good for analyzing long-term trends and large campaigns,	Good for analyzing short-term and specific campaigns
+Weaknesses,	Not as precise as MTA; limited to historical data,	Can be complex; requires real-time data
